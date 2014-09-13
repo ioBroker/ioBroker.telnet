@@ -7,7 +7,7 @@
         "mode":                     "daemon",
         "platform":                 "Javascript/Node.js",
         "loglevel":                 "info",
-        "keywords":                 ["telnet", "tcp", "text", "network"],
+        "keywords":                 ["telnet", "tcp", "text", "network", "socket", "connect"],
         "main":                     "telnet.js",
         "authors": [
             "hobbyquaker <hq@ccu.io>"
