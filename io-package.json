@@ -13,6 +13,7 @@
             "hobbyquaker <hq@ccu.io>"
         ],
         "license":                  "MIT",
+        "extIcon":                  "https://raw.githubusercontent.com/ioBroker/ioBroker.telnet/master/admin/telnet.png",
         "readme":                   "https://github.com/ioBroker/ioBroker.telnet/blob/master/README.md"
     },
     "native": {
